@@ -1,4 +1,4 @@
-##Pixel Art Maker
+## Pixel Art Maker
 You Can choose the width and Height of your Pallete or Canvas then choose colors and Make any alphabet or name or any Draw you Want as this below and make someone day *-* *-*
 
 https://zenab12.github.io/Pixel-Art-Maker/
